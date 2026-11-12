@@ -105,7 +105,7 @@ You can make several commits while working, but make sure your final version is 
 
 When done, open a pull request (PR) from your assignment branch to your fork’s main branch.
 
-See the [Git Basics](https://github.com/UofT-DSI/git/blob/main/01_materials/slides/03_git_basics.pdf) slides and [Creating a Pull Request (PR)](#creating-a-pull-request-pr) for details.
+See the [Git Basics](https://github.com/UofT-DSI/git/blob/main/01_materials/slides/02_git_basic_commands.pdf) slides and [Creating a Pull Request (PR)](#creating-a-pull-request-pr) for details.
 
 ### Creating a Pull Request (PR)
 *Upon completing your assignment*, create a pull request from your assignment branch to **your fork's main branch**. (Please make sure the pull request is **NOT** to the source/upstream repository's main branch)
